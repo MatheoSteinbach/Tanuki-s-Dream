@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Spider_Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: df20ac0a667946d4592bc262d2a2fd69, type: 3}
+    - {fileID: 2800000, guid: becf90eaeae136047a6f1de5cd85ecaa, type: 3}
+    - {fileID: 2800000, guid: 65e68cedd01842a4d99ff3b7c09d1331, type: 3}
+    - {fileID: 2800000, guid: 7ef207f7e099e3645b6602768827c2e8, type: 3}
+    - {fileID: 2800000, guid: 591da01721daaa844a2909ac7d35ef6a, type: 3}
+    - {fileID: 2800000, guid: cafc860157e2e064aa49730bd46b5c52, type: 3}
+    - {fileID: 2800000, guid: 57fbbe66a6a251447a066d32be368965, type: 3}
+    - {fileID: 2800000, guid: e9176353dd1a31c4d952658692c7613f, type: 3}
+    - {fileID: 2800000, guid: dc98c3b71e327aa4ab609b68ae4da890, type: 3}
+    - {fileID: 2800000, guid: e75f353bf013b6a4fb6f5c6f16ac6ce3, type: 3}
+    - {fileID: 2800000, guid: f58cc819cfd349d4caaa879932e1f43b, type: 3}
+    - {fileID: 2800000, guid: 786bd28c3d1339b4eb4860a932051dc3, type: 3}
+    - {fileID: 2800000, guid: bfdb7048a8f68f34a8571d07313ccf41, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: cafc860157e2e064aa49730bd46b5c52, type: 3}
+  - {fileID: 21300000, guid: e9176353dd1a31c4d952658692c7613f, type: 3}
+  - {fileID: 21300000, guid: 57fbbe66a6a251447a066d32be368965, type: 3}
+  - {fileID: 21300000, guid: 591da01721daaa844a2909ac7d35ef6a, type: 3}
+  - {fileID: 21300000, guid: dc98c3b71e327aa4ab609b68ae4da890, type: 3}
+  - {fileID: 21300000, guid: 7ef207f7e099e3645b6602768827c2e8, type: 3}
+  - {fileID: 21300000, guid: bfdb7048a8f68f34a8571d07313ccf41, type: 3}
+  - {fileID: 21300000, guid: f58cc819cfd349d4caaa879932e1f43b, type: 3}
+  - {fileID: 21300000, guid: df20ac0a667946d4592bc262d2a2fd69, type: 3}
+  - {fileID: 21300000, guid: becf90eaeae136047a6f1de5cd85ecaa, type: 3}
+  - {fileID: 21300000, guid: e75f353bf013b6a4fb6f5c6f16ac6ce3, type: 3}
+  - {fileID: 21300000, guid: 786bd28c3d1339b4eb4860a932051dc3, type: 3}
+  - {fileID: 21300000, guid: 65e68cedd01842a4d99ff3b7c09d1331, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 6
+  - 8
+  - 7
+  - 5
+  - 9
+  - 4
+  - 13
+  - 11
+  - 1
+  - 2
+  - 10
+  - 12
+  - 3
+  m_RenderDataMap: {}
+  m_Tag: Spider_Atlas
+  m_IsVariant: 0

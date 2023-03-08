@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a88eb5a8d2a9afc40a4e401cd0d44f7a, type: 3}
+  m_Name: StateChaseSpikey
+  m_EditorClassIdentifier: 
+  Actions:
+  - {fileID: 11400000, guid: e646d07a838b88c4abf8dadcfc046b48, type: 2}
+  Transitions:
+  - Decision: {fileID: 11400000, guid: 95c2bbcc4ce6fdf47b4bdc5bc1611a20, type: 2}
+    TrueState: {fileID: 11400000}
+    FalseState: {fileID: 11400000, guid: a15afa24f1468d04e88bc602dce2c48e, type: 2}
+  - Decision: {fileID: 11400000, guid: 3bbe632279147db42b8bc56962cc3b89, type: 2}
+    TrueState: {fileID: 11400000, guid: a2db4b5c27518b24ebbf9eeb45699da1, type: 2}
+    FalseState: {fileID: 11400000, guid: 400e86b70b9a3d24c938a44267c91874, type: 2}
+  - Decision: {fileID: 11400000, guid: 2a6dbaa27a2ff02408606c4b5a30050f, type: 2}
+    TrueState: {fileID: 11400000, guid: ca1b4fa4d793ef34fbfecf1fcbb99f3b, type: 2}
+    FalseState: {fileID: 11400000, guid: 400e86b70b9a3d24c938a44267c91874, type: 2}

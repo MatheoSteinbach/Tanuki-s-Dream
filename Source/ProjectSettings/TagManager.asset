@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - UnWalkable
+  - Player
+  - Enemy
+  - Destroyable
+  - Interactable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Water
+    uniqueID: 986591977
+    locked: 0
+  - name: Fish
+    uniqueID: 1682044427
+    locked: 0
+  - name: VFX behind Background
+    uniqueID: 1413496787
+    locked: 0
+  - name: Tileset
+    uniqueID: 3218698573
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1106958023
+    locked: 0
+  - name: Props
+    uniqueID: 2286867403
+    locked: 0
+  - name: Dirt
+    uniqueID: 390583349
+    locked: 0
+  - name: Stone
+    uniqueID: 889276035
+    locked: 0
+  - name: Creatures
+    uniqueID: 3003436977
+    locked: 0
+  - name: Grass
+    uniqueID: 4242532859
+    locked: 0
+  - name: Actors
+    uniqueID: 2770585801
+    locked: 0
+  - name: VFX
+    uniqueID: 503972547
+    locked: 0
+  - name: Signs
+    uniqueID: 3792913781
+    locked: 0
+  - name: Leaves
+    uniqueID: 3708578815
+    locked: 0
+  - name: Leaves Shadow
+    uniqueID: 590852681
+    locked: 0
+  - name: UI
+    uniqueID: 1038695461
+    locked: 0

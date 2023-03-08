@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Driftwood2_Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: c8817d16daeaa574c990a835309526c4, type: 3}
+    - {fileID: 2800000, guid: fb672713c520f7343b50f6ed4db6aee0, type: 3}
+    - {fileID: 2800000, guid: 52b7ddf8cdc970a45a52c1bcae6a55e8, type: 3}
+    - {fileID: 2800000, guid: 3f21b2a7c6edea14f8ca1272ac04b174, type: 3}
+    - {fileID: 2800000, guid: 9f3fe0fb65dc4504b872a1bc9c34eb97, type: 3}
+    - {fileID: 2800000, guid: c43b258e4b1c37f4895ae9e894171cdb, type: 3}
+    - {fileID: 2800000, guid: 87fabaaeb7892e34b9fa73fde3a23f7a, type: 3}
+    - {fileID: 2800000, guid: b745aa71eacce3046880b906a27c48d0, type: 3}
+    - {fileID: 2800000, guid: cf9fc83855d135648a581e86ea747201, type: 3}
+    - {fileID: 2800000, guid: c85d29fe4c90d5f4ebec6d85e0d5faa3, type: 3}
+    - {fileID: 2800000, guid: d011ec2ffe1b10a4ea4abde728033997, type: 3}
+    - {fileID: 2800000, guid: 4f4a2f2d47fa77b43b24aa43888c1cd1, type: 3}
+    - {fileID: 2800000, guid: f79d070e239f91d439c393a057bf8e65, type: 3}
+    - {fileID: 2800000, guid: bfd69fb893e9dc74fb32d6228179f427, type: 3}
+    - {fileID: 2800000, guid: f352cc41dfffc3048954702b35cbab6f, type: 3}
+    - {fileID: 2800000, guid: 1f0beb19f65a2ef428612c82e50ae029, type: 3}
+    - {fileID: 2800000, guid: 9195c52b899d2a949a7ef4d1129190be, type: 3}
+    - {fileID: 2800000, guid: 68ff97cd732d246499d8bbc9d1624cd8, type: 3}
+    - {fileID: 2800000, guid: b2ffa78a672219d41800625f43a3cb66, type: 3}
+    - {fileID: 2800000, guid: bff6213fd0639514c95570281b34de45, type: 3}
+    - {fileID: 2800000, guid: 3b7ed210ddf9dff4c9965106ad7c6b30, type: 3}
+    - {fileID: 2800000, guid: a26a684dae1a6ef4e9ee625f488f0dcc, type: 3}
+    - {fileID: 2800000, guid: fc9220804aa0a7c49a7169e4cf3ed667, type: 3}
+    - {fileID: 2800000, guid: a2e68482583a99e478acc1edc94b875e, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 3b7ed210ddf9dff4c9965106ad7c6b30, type: 3}
+  - {fileID: 21300000, guid: fc9220804aa0a7c49a7169e4cf3ed667, type: 3}
+  - {fileID: 21300000, guid: f352cc41dfffc3048954702b35cbab6f, type: 3}
+  - {fileID: 21300000, guid: b745aa71eacce3046880b906a27c48d0, type: 3}
+  - {fileID: 21300000, guid: a2e68482583a99e478acc1edc94b875e, type: 3}
+  - {fileID: 21300000, guid: fb672713c520f7343b50f6ed4db6aee0, type: 3}
+  - {fileID: 21300000, guid: c8817d16daeaa574c990a835309526c4, type: 3}
+  - {fileID: 21300000, guid: 3f21b2a7c6edea14f8ca1272ac04b174, type: 3}
+  - {fileID: 21300000, guid: cf9fc83855d135648a581e86ea747201, type: 3}
+  - {fileID: 21300000, guid: bfd69fb893e9dc74fb32d6228179f427, type: 3}
+  - {fileID: 21300000, guid: 52b7ddf8cdc970a45a52c1bcae6a55e8, type: 3}
+  - {fileID: 21300000, guid: 1f0beb19f65a2ef428612c82e50ae029, type: 3}
+  - {fileID: 21300000, guid: b2ffa78a672219d41800625f43a3cb66, type: 3}
+  - {fileID: 21300000, guid: 9195c52b899d2a949a7ef4d1129190be, type: 3}
+  - {fileID: 21300000, guid: 9f3fe0fb65dc4504b872a1bc9c34eb97, type: 3}
+  - {fileID: 21300000, guid: 4f4a2f2d47fa77b43b24aa43888c1cd1, type: 3}
+  - {fileID: 21300000, guid: a26a684dae1a6ef4e9ee625f488f0dcc, type: 3}
+  - {fileID: 21300000, guid: 68ff97cd732d246499d8bbc9d1624cd8, type: 3}
+  - {fileID: 21300000, guid: f79d070e239f91d439c393a057bf8e65, type: 3}
+  - {fileID: 21300000, guid: c43b258e4b1c37f4895ae9e894171cdb, type: 3}
+  - {fileID: 21300000, guid: 87fabaaeb7892e34b9fa73fde3a23f7a, type: 3}
+  - {fileID: 21300000, guid: c85d29fe4c90d5f4ebec6d85e0d5faa3, type: 3}
+  - {fileID: 21300000, guid: d011ec2ffe1b10a4ea4abde728033997, type: 3}
+  - {fileID: 21300000, guid: bff6213fd0639514c95570281b34de45, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 21
+  - 23
+  - 15
+  - 8
+  - 24
+  - 2
+  - 1
+  - 4
+  - 9
+  - 14
+  - 3
+  - 16
+  - 19
+  - 17
+  - 5
+  - 12
+  - 22
+  - 18
+  - 13
+  - 6
+  - 7
+  - 10
+  - 11
+  - 20
+  m_RenderDataMap: {}
+  m_Tag: Driftwood2_Atlas
+  m_IsVariant: 0

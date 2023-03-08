@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Worms_Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 9491a42b83ca8154885f69df95142b52, type: 3}
+    - {fileID: 2800000, guid: 20459cdef138eb34fbcedbd3198aa16f, type: 3}
+    - {fileID: 2800000, guid: 0917aa8b64cad514f914e15b312f1d44, type: 3}
+    - {fileID: 2800000, guid: c763a278b1013f54fa37b8d2484ac7e1, type: 3}
+    - {fileID: 2800000, guid: fb9aa18034fcfd143bb1a1293dd9ab34, type: 3}
+    - {fileID: 2800000, guid: ceaa1302bdf7f97429c856b815c82b3b, type: 3}
+    - {fileID: 2800000, guid: 6ece278808aca6f4bb6face248f159ec, type: 3}
+    - {fileID: 2800000, guid: 605b6336b874ebb46a23e0067f3c9a75, type: 3}
+    - {fileID: 2800000, guid: 91f9d6d790aa6d14f8826f0cf864f3d6, type: 3}
+    - {fileID: 2800000, guid: 70b08bad062ea13419505bae8d4030c2, type: 3}
+    - {fileID: 2800000, guid: 7791bb372a5e38b4889dd98f95a6edc6, type: 3}
+    - {fileID: 2800000, guid: e3bec5360c271474a9f995e180886f5f, type: 3}
+    - {fileID: 2800000, guid: 4e058381ee5ea2641bc8b413c3d3d1e3, type: 3}
+    - {fileID: 2800000, guid: e3d4e792ae78d594ea54b9245acfbdc5, type: 3}
+    - {fileID: 2800000, guid: 1c87b2fef2053004db8ef7237eedd6c1, type: 3}
+    - {fileID: 2800000, guid: ec811ae4688b45c41913a8f8ff62618d, type: 3}
+    - {fileID: 2800000, guid: 4ffacc3037c09fa42a70c76bff169ae8, type: 3}
+    - {fileID: 2800000, guid: a073920b586df7143a5d4e5fbb609345, type: 3}
+    - {fileID: 2800000, guid: 7a6b8b9da443c544586c53e866965839, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 4ffacc3037c09fa42a70c76bff169ae8, type: 3}
+  - {fileID: 21300000, guid: fb9aa18034fcfd143bb1a1293dd9ab34, type: 3}
+  - {fileID: 21300000, guid: 4e058381ee5ea2641bc8b413c3d3d1e3, type: 3}
+  - {fileID: 21300000, guid: ceaa1302bdf7f97429c856b815c82b3b, type: 3}
+  - {fileID: 21300000, guid: e3d4e792ae78d594ea54b9245acfbdc5, type: 3}
+  - {fileID: 21300000, guid: ec811ae4688b45c41913a8f8ff62618d, type: 3}
+  - {fileID: 21300000, guid: 605b6336b874ebb46a23e0067f3c9a75, type: 3}
+  - {fileID: 21300000, guid: e3bec5360c271474a9f995e180886f5f, type: 3}
+  - {fileID: 21300000, guid: 7791bb372a5e38b4889dd98f95a6edc6, type: 3}
+  - {fileID: 21300000, guid: 91f9d6d790aa6d14f8826f0cf864f3d6, type: 3}
+  - {fileID: 21300000, guid: c763a278b1013f54fa37b8d2484ac7e1, type: 3}
+  - {fileID: 21300000, guid: 6ece278808aca6f4bb6face248f159ec, type: 3}
+  - {fileID: 21300000, guid: a073920b586df7143a5d4e5fbb609345, type: 3}
+  - {fileID: 21300000, guid: 9491a42b83ca8154885f69df95142b52, type: 3}
+  - {fileID: 21300000, guid: 0917aa8b64cad514f914e15b312f1d44, type: 3}
+  - {fileID: 21300000, guid: 7a6b8b9da443c544586c53e866965839, type: 3}
+  - {fileID: 21300000, guid: 70b08bad062ea13419505bae8d4030c2, type: 3}
+  - {fileID: 21300000, guid: 20459cdef138eb34fbcedbd3198aa16f, type: 3}
+  - {fileID: 21300000, guid: 1c87b2fef2053004db8ef7237eedd6c1, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 17
+  - 5
+  - 13
+  - 6
+  - 14
+  - 16
+  - 8
+  - 12
+  - 11
+  - 9
+  - 4
+  - 7
+  - 18
+  - 1
+  - 3
+  - 19
+  - 10
+  - 2
+  - 15
+  m_RenderDataMap: {}
+  m_Tag: Worms_Atlas
+  m_IsVariant: 0

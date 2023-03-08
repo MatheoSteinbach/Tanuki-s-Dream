@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a88eb5a8d2a9afc40a4e401cd0d44f7a, type: 3}
+  m_Name: StateChaseKappa
+  m_EditorClassIdentifier: 
+  Actions:
+  - {fileID: 11400000, guid: 3e0dc64c0d372b746b5a720a556c2175, type: 2}
+  Transitions:
+  - Decision: {fileID: 11400000, guid: 012e0bd4d0dbfcf499aa614bc5c1f76f, type: 2}
+    TrueState: {fileID: 11400000}
+    FalseState: {fileID: 11400000, guid: dceadcf398ac4fd4d85736dcafecc1e9, type: 2}
+  - Decision: {fileID: 11400000, guid: 5800d7bb7968b5f4c9f357056705095b, type: 2}
+    TrueState: {fileID: 11400000, guid: 5b416af14d8cac4499b56b313b84e8f9, type: 2}
+    FalseState: {fileID: 11400000, guid: db7360c1962cf2e4cbcbd326efd8613e, type: 2}
+  - Decision: {fileID: 11400000, guid: 293639ce5ccfae54c8111540c8bb6830, type: 2}
+    TrueState: {fileID: 11400000, guid: ae393ced06996154e91cc10de969d229, type: 2}
+    FalseState: {fileID: 11400000, guid: db7360c1962cf2e4cbcbd326efd8613e, type: 2}

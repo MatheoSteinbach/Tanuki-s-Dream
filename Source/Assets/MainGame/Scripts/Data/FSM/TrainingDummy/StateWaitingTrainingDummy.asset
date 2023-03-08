@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a88eb5a8d2a9afc40a4e401cd0d44f7a, type: 3}
+  m_Name: StateWaitingTrainingDummy
+  m_EditorClassIdentifier: 
+  Actions: []
+  Transitions:
+  - Decision: {fileID: 11400000, guid: bacda036b24f46642819df9b35a305bc, type: 2}
+    TrueState: {fileID: 11400000, guid: ec7a563f327d27447bddec372df24cd0, type: 2}
+    FalseState: {fileID: 11400000, guid: c953698ce79750d45a547bb3be1e639f, type: 2}

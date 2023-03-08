@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: OnsenAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 3e5e0acb2c8707446b6bd971d147bf06, type: 3}
+    - {fileID: 2800000, guid: 23be59f51aa734940b5e2edd8c302753, type: 3}
+    - {fileID: 2800000, guid: 7005a8cbf2cae214781390d9b5b11fb6, type: 3}
+    - {fileID: 2800000, guid: a7e30db70ff0de14b80b7397e9d877ea, type: 3}
+    - {fileID: 2800000, guid: ba91dfdd6fe05a04095f9216829be8b4, type: 3}
+    - {fileID: 2800000, guid: ae69f4aaa5366b14e8f65f13af7ad1b1, type: 3}
+    - {fileID: 2800000, guid: 20a7dda4db499d742a98e97f5b15a74a, type: 3}
+    - {fileID: 2800000, guid: be3fd73ecfba68a44939c00b6c7f76af, type: 3}
+    - {fileID: 2800000, guid: fb2a1e16c3603f34e8b5a272b1179f38, type: 3}
+    - {fileID: 2800000, guid: 2fbb861efbaa89e4da987e39a6309ad7, type: 3}
+    - {fileID: 2800000, guid: 37c320464f971784395b80a3462334fb, type: 3}
+    - {fileID: 2800000, guid: 649180528b0ce394fa96f3f026f6c670, type: 3}
+    - {fileID: 2800000, guid: 5718a04a97f13b54f88145a359693528, type: 3}
+    - {fileID: 2800000, guid: 305720483a9b8bb4687eb4cde201d070, type: 3}
+    - {fileID: 2800000, guid: 661bc4df9b3d9b9498f451e303154d96, type: 3}
+    - {fileID: 2800000, guid: 16c1d20ce78ab664f9a92ee00310cca7, type: 3}
+    - {fileID: 2800000, guid: cef8c23fd0306064bba35bd9bf99226d, type: 3}
+    - {fileID: 2800000, guid: a2ac6ef1065e0bb4b9ae2107bdaaa5c4, type: 3}
+    - {fileID: 2800000, guid: 9658ad35d9b4fac48a702e728aed4908, type: 3}
+    - {fileID: 2800000, guid: c69d6dac00ac94d49ad562fb0ab0c555, type: 3}
+    - {fileID: 2800000, guid: dfe9d995fbf9c9a41a9dfa842884bf6a, type: 3}
+    - {fileID: 2800000, guid: 974c55e6809f49a4395ad97ba1b9d77a, type: 3}
+    - {fileID: 2800000, guid: dc063d26c92fa2b409759ef2512ce96a, type: 3}
+    - {fileID: 2800000, guid: cfbb29fbcdf7883419dcb633c0081309, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: a2ac6ef1065e0bb4b9ae2107bdaaa5c4, type: 3}
+  - {fileID: 21300000, guid: 649180528b0ce394fa96f3f026f6c670, type: 3}
+  - {fileID: 21300000, guid: 20a7dda4db499d742a98e97f5b15a74a, type: 3}
+  - {fileID: 21300000, guid: 9658ad35d9b4fac48a702e728aed4908, type: 3}
+  - {fileID: 21300000, guid: dfe9d995fbf9c9a41a9dfa842884bf6a, type: 3}
+  - {fileID: 21300000, guid: 23be59f51aa734940b5e2edd8c302753, type: 3}
+  - {fileID: 21300000, guid: fb2a1e16c3603f34e8b5a272b1179f38, type: 3}
+  - {fileID: 21300000, guid: dc063d26c92fa2b409759ef2512ce96a, type: 3}
+  - {fileID: 21300000, guid: 37c320464f971784395b80a3462334fb, type: 3}
+  - {fileID: 21300000, guid: 974c55e6809f49a4395ad97ba1b9d77a, type: 3}
+  - {fileID: 21300000, guid: a7e30db70ff0de14b80b7397e9d877ea, type: 3}
+  - {fileID: 21300000, guid: 305720483a9b8bb4687eb4cde201d070, type: 3}
+  - {fileID: 21300000, guid: 5718a04a97f13b54f88145a359693528, type: 3}
+  - {fileID: 21300000, guid: ae69f4aaa5366b14e8f65f13af7ad1b1, type: 3}
+  - {fileID: 21300000, guid: 7005a8cbf2cae214781390d9b5b11fb6, type: 3}
+  - {fileID: 21300000, guid: 3e5e0acb2c8707446b6bd971d147bf06, type: 3}
+  - {fileID: 21300000, guid: cfbb29fbcdf7883419dcb633c0081309, type: 3}
+  - {fileID: 21300000, guid: 16c1d20ce78ab664f9a92ee00310cca7, type: 3}
+  - {fileID: 21300000, guid: c69d6dac00ac94d49ad562fb0ab0c555, type: 3}
+  - {fileID: 21300000, guid: ba91dfdd6fe05a04095f9216829be8b4, type: 3}
+  - {fileID: 21300000, guid: 2fbb861efbaa89e4da987e39a6309ad7, type: 3}
+  - {fileID: 21300000, guid: be3fd73ecfba68a44939c00b6c7f76af, type: 3}
+  - {fileID: 21300000, guid: cef8c23fd0306064bba35bd9bf99226d, type: 3}
+  - {fileID: 21300000, guid: 661bc4df9b3d9b9498f451e303154d96, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 18
+  - 12
+  - 7
+  - 19
+  - 21
+  - 2
+  - 9
+  - 23
+  - 11
+  - 22
+  - 4
+  - 14
+  - 13
+  - 6
+  - 3
+  - 1
+  - 24
+  - 16
+  - 20
+  - 5
+  - 10
+  - 8
+  - 17
+  - 15
+  m_RenderDataMap: {}
+  m_Tag: OnsenAtlas
+  m_IsVariant: 0

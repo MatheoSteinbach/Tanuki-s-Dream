@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: FountainWater_Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 8de6472dd059a2e43b9a7eb3b747fdf0, type: 3}
+    - {fileID: 2800000, guid: 1c78f0c7ed16f504f94b82adc2e935ae, type: 3}
+    - {fileID: 2800000, guid: 113e90c4a7e113443b07496532c2c2c4, type: 3}
+    - {fileID: 2800000, guid: 71d8071f78736b3458e9fc9f8633cb33, type: 3}
+    - {fileID: 2800000, guid: 7f7bf24c10594814db89e8ac499b169b, type: 3}
+    - {fileID: 2800000, guid: f97a7ab31defad9439647478ff274eee, type: 3}
+    - {fileID: 2800000, guid: 7447d8eb2366388409e4b53ea122d4d8, type: 3}
+    - {fileID: 2800000, guid: a832c07f1decf8649986ba5826fa5df5, type: 3}
+    - {fileID: 2800000, guid: 7ce9965497749694da8309aa2dfd7cd9, type: 3}
+    - {fileID: 2800000, guid: ded234c079120b244becfee4b7ddca87, type: 3}
+    - {fileID: 2800000, guid: 56d60972450527146895586f73a5cd1b, type: 3}
+    - {fileID: 2800000, guid: 2d98540dab22cf74e92ef761d6ab59cb, type: 3}
+    - {fileID: 2800000, guid: 038d0adfe0084f647a9977617e439bca, type: 3}
+    - {fileID: 2800000, guid: 06eb9ff2b4bb80f4aaa3e731492db3f1, type: 3}
+    - {fileID: 2800000, guid: 45ae2644d0bd4094289f3c756a39f6d5, type: 3}
+    - {fileID: 2800000, guid: 092d038ebf216a64eac06b432cc0b8f4, type: 3}
+    - {fileID: 2800000, guid: 99047b43379c85046be1c20e06fd727b, type: 3}
+    - {fileID: 2800000, guid: 5a8ffb5402accd245b0baed6b428d650, type: 3}
+    - {fileID: 2800000, guid: 9c9e045c1890c1b46ab6228c8d26a56c, type: 3}
+    - {fileID: 2800000, guid: 5c3eeafaea7c0414d98c793ba6c20dd5, type: 3}
+    - {fileID: 2800000, guid: 78f4057a65c26d24ca9b017e3e69e429, type: 3}
+    - {fileID: 2800000, guid: 3fcc942a58fb0864abc2b377c24c788c, type: 3}
+    - {fileID: 2800000, guid: a89db4fc0b813ef41b10ba69b72a92d5, type: 3}
+    - {fileID: 2800000, guid: c799ae958d44ed84db6ef7af965af1f2, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: ded234c079120b244becfee4b7ddca87, type: 3}
+  - {fileID: 21300000, guid: 56d60972450527146895586f73a5cd1b, type: 3}
+  - {fileID: 21300000, guid: 06eb9ff2b4bb80f4aaa3e731492db3f1, type: 3}
+  - {fileID: 21300000, guid: 99047b43379c85046be1c20e06fd727b, type: 3}
+  - {fileID: 21300000, guid: f97a7ab31defad9439647478ff274eee, type: 3}
+  - {fileID: 21300000, guid: 45ae2644d0bd4094289f3c756a39f6d5, type: 3}
+  - {fileID: 21300000, guid: 7ce9965497749694da8309aa2dfd7cd9, type: 3}
+  - {fileID: 21300000, guid: 5a8ffb5402accd245b0baed6b428d650, type: 3}
+  - {fileID: 21300000, guid: 113e90c4a7e113443b07496532c2c2c4, type: 3}
+  - {fileID: 21300000, guid: c799ae958d44ed84db6ef7af965af1f2, type: 3}
+  - {fileID: 21300000, guid: 1c78f0c7ed16f504f94b82adc2e935ae, type: 3}
+  - {fileID: 21300000, guid: 3fcc942a58fb0864abc2b377c24c788c, type: 3}
+  - {fileID: 21300000, guid: 78f4057a65c26d24ca9b017e3e69e429, type: 3}
+  - {fileID: 21300000, guid: 5c3eeafaea7c0414d98c793ba6c20dd5, type: 3}
+  - {fileID: 21300000, guid: 7447d8eb2366388409e4b53ea122d4d8, type: 3}
+  - {fileID: 21300000, guid: 7f7bf24c10594814db89e8ac499b169b, type: 3}
+  - {fileID: 21300000, guid: 9c9e045c1890c1b46ab6228c8d26a56c, type: 3}
+  - {fileID: 21300000, guid: a89db4fc0b813ef41b10ba69b72a92d5, type: 3}
+  - {fileID: 21300000, guid: 2d98540dab22cf74e92ef761d6ab59cb, type: 3}
+  - {fileID: 21300000, guid: 8de6472dd059a2e43b9a7eb3b747fdf0, type: 3}
+  - {fileID: 21300000, guid: 092d038ebf216a64eac06b432cc0b8f4, type: 3}
+  - {fileID: 21300000, guid: 71d8071f78736b3458e9fc9f8633cb33, type: 3}
+  - {fileID: 21300000, guid: a832c07f1decf8649986ba5826fa5df5, type: 3}
+  - {fileID: 21300000, guid: 038d0adfe0084f647a9977617e439bca, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 10
+  - 11
+  - 14
+  - 17
+  - 6
+  - 15
+  - 9
+  - 18
+  - 3
+  - 24
+  - 2
+  - 22
+  - 21
+  - 20
+  - 7
+  - 5
+  - 19
+  - 23
+  - 12
+  - 1
+  - 16
+  - 4
+  - 8
+  - 13
+  m_RenderDataMap: {}
+  m_Tag: FountainWater_Atlas
+  m_IsVariant: 0

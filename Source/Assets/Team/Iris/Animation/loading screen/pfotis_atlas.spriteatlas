@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: pfotis_atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 529b9f134027f8c428229de9b03de95f, type: 3}
+    - {fileID: 2800000, guid: 0d773bb901da9194a96750d463eee047, type: 3}
+    - {fileID: 2800000, guid: 09895d2065b5fe64092b52cd2a5cd04c, type: 3}
+    - {fileID: 2800000, guid: 694cad2750d50364084af5e4b1ad8927, type: 3}
+    - {fileID: 2800000, guid: c2ba595ea7f66ec45a487f440cf6da5c, type: 3}
+    - {fileID: 2800000, guid: 4e6cf2559b8779e48a8ca8b261476239, type: 3}
+    - {fileID: 2800000, guid: a97955f59afe404469d36f63ffa728fa, type: 3}
+    - {fileID: 2800000, guid: f8bd2e91da8801d4f8d7f1b0d1509a56, type: 3}
+    - {fileID: 2800000, guid: 78787f851e126074babd291e877650c0, type: 3}
+    - {fileID: 2800000, guid: 9c51a468d3a7b584ab2568ea35524189, type: 3}
+    - {fileID: 2800000, guid: 9a97ba735923faf4a9af178dbbf3efa3, type: 3}
+    - {fileID: 2800000, guid: a8a9cf0bb3eb2e64287f9477cd9d2745, type: 3}
+    - {fileID: 2800000, guid: cfcd53a1a1c7a5549af0ee654691ddc4, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 09895d2065b5fe64092b52cd2a5cd04c, type: 3}
+  - {fileID: 21300000, guid: f8bd2e91da8801d4f8d7f1b0d1509a56, type: 3}
+  - {fileID: 21300000, guid: cfcd53a1a1c7a5549af0ee654691ddc4, type: 3}
+  - {fileID: 21300000, guid: 529b9f134027f8c428229de9b03de95f, type: 3}
+  - {fileID: 21300000, guid: 9a97ba735923faf4a9af178dbbf3efa3, type: 3}
+  - {fileID: 21300000, guid: 4e6cf2559b8779e48a8ca8b261476239, type: 3}
+  - {fileID: 21300000, guid: 78787f851e126074babd291e877650c0, type: 3}
+  - {fileID: 21300000, guid: a97955f59afe404469d36f63ffa728fa, type: 3}
+  - {fileID: 21300000, guid: 694cad2750d50364084af5e4b1ad8927, type: 3}
+  - {fileID: 21300000, guid: 9c51a468d3a7b584ab2568ea35524189, type: 3}
+  - {fileID: 21300000, guid: 0d773bb901da9194a96750d463eee047, type: 3}
+  - {fileID: 21300000, guid: a8a9cf0bb3eb2e64287f9477cd9d2745, type: 3}
+  - {fileID: 21300000, guid: c2ba595ea7f66ec45a487f440cf6da5c, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 3
+  - 8
+  - 13
+  - 1
+  - 11
+  - 6
+  - 9
+  - 7
+  - 4
+  - 10
+  - 2
+  - 12
+  - 5
+  m_RenderDataMap: {}
+  m_Tag: pfotis_atlas
+  m_IsVariant: 0

@@ -1,0 +1,1213 @@
+fileFormatVersion: 2
+guid: 6aee1c98f79bc884891ab6aca8498440
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 164
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AttackIndicatorKappa_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 216
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a457119ed0aad34485027215ab783b0
+      internalID: -682432878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackIndicatorKappa_1
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 216
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c230069e810e19641bb2947bcf762df9
+      internalID: 27968093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackIndicatorKappa_2
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 216
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8948c6ccd788680448322e287b0a6f7a
+      internalID: -637871498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackIndicatorKappa_3
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 0
+        width: 216
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce80d83c67fdf1345959e21177b222e5
+      internalID: 1366292572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackIndicatorKappa_4
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 216
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed923ade4204e8c4582621df97535e9f
+      internalID: 1059351434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackIndicatorKappa_5
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 0
+        width: 216
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3fc79fc450e864c9bc5a8a73ba5e7e
+      internalID: 654068979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackIndicatorKappa_6
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 0
+        width: 216
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a1032c543950042afe67881025442d
+      internalID: -905988235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackIndicatorKappa_7
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 0
+        width: 216
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67d280f42a71f14d8b161996fcf8c36
+      internalID: -2111523321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackIndicatorKappa_8
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 0
+        width: 216
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d25a37db56eed47abdc2adfecc6c8d
+      internalID: 719001623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackIndicatorKappa_9
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 0
+        width: 216
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721775e46fc935140b71506bf937e6f3
+      internalID: 973689178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackIndicatorKappa_10
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 0
+        width: 216
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716b81234db2d9f48a90d18f9d2f9e91
+      internalID: -1692097850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackIndicatorKappa_11
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 0
+        width: 216
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d240a89b6f094a4383d3a2c316fbe2d
+      internalID: 1801912834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackIndicatorKappa_12
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 0
+        width: 216
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2e5f9a3f76f4946ac1d0057e94776e
+      internalID: -318189219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackIndicatorKappa_13
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 0
+        width: 216
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b471f62b7330194cb13dd3f232aac79
+      internalID: -138357640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackIndicatorKappa_14
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 0
+        width: 216
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd8a03737416934eb9e60fce573032a
+      internalID: -1598849649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackIndicatorKappa_15
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 0
+        width: 216
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1079f2d2d79a69c49ae580fe0496c904
+      internalID: -1299761915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackIndicatorKappa_16
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 0
+        width: 216
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e975f29413a51141bad582254c1f8e9
+      internalID: 1986025225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackIndicatorKappa_17
+      rect:
+        serializedVersion: 2
+        x: 3672
+        y: 0
+        width: 216
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3617b52e37b1e742899ea1ad58c61cb
+      internalID: 83046683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackIndicatorKappa_18
+      rect:
+        serializedVersion: 2
+        x: 3888
+        y: 0
+        width: 216
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba137ab242a84854e8f31a4ad0dbad8b
+      internalID: 1501171456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackIndicatorKappa_19
+      rect:
+        serializedVersion: 2
+        x: 4104
+        y: 0
+        width: 216
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8cd05a67e88454fbbbf200ac35d7af
+      internalID: 759928126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackIndicatorKappa_20
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 0
+        width: 216
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a424e7aa1e6cfab4c99a3da0149baacb
+      internalID: 817236446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackIndicatorKappa_21
+      rect:
+        serializedVersion: 2
+        x: 4536
+        y: 0
+        width: 216
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158e6317ebfb25945b986150ffd208e8
+      internalID: -1034630731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackIndicatorKappa_22
+      rect:
+        serializedVersion: 2
+        x: 4752
+        y: 0
+        width: 216
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a43a180f9577542be1367f02edec2d
+      internalID: -326937881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackIndicatorKappa_23
+      rect:
+        serializedVersion: 2
+        x: 4968
+        y: 0
+        width: 216
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31adf659c5f3374d9c7c0e73055b2ef
+      internalID: 761662245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackIndicatorKappa_24
+      rect:
+        serializedVersion: 2
+        x: 5184
+        y: 0
+        width: 216
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a96f5d583716a449de915a94374220
+      internalID: -2066390554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackIndicatorKappa_25
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 0
+        width: 216
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa0a4f9bdc3598438098aec3a6f45a3
+      internalID: -1395531861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackIndicatorKappa_26
+      rect:
+        serializedVersion: 2
+        x: 5616
+        y: 0
+        width: 216
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68b4f492292c5b4d88ebfcd7e9e3a10
+      internalID: -1424742744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackIndicatorKappa_27
+      rect:
+        serializedVersion: 2
+        x: 5832
+        y: 0
+        width: 216
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd139c2bf5c609f438df55447fe85b51
+      internalID: 1904491108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackIndicatorKappa_28
+      rect:
+        serializedVersion: 2
+        x: 6048
+        y: 0
+        width: 216
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f213f6f8f7367cd469e39bb6aaac768c
+      internalID: -941072232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackIndicatorKappa_29
+      rect:
+        serializedVersion: 2
+        x: 6264
+        y: 0
+        width: 216
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b62b9731639084ba2e46236c62b416
+      internalID: 161835909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackIndicatorKappa_30
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 0
+        width: 216
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c48daa8cd46c849bfea1ec27ceda37
+      internalID: -1173625079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackIndicatorKappa_31
+      rect:
+        serializedVersion: 2
+        x: 6696
+        y: 0
+        width: 216
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3530d7ee8689bdb4d8776d0bd3f611aa
+      internalID: 2021703675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackIndicatorKappa_32
+      rect:
+        serializedVersion: 2
+        x: 6912
+        y: 0
+        width: 216
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da85dbf090b9b14b8c58920fa3fc846
+      internalID: 1764792459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackIndicatorKappa_33
+      rect:
+        serializedVersion: 2
+        x: 7128
+        y: 0
+        width: 216
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc7ec6a6db34894aa40266e7e737e5e
+      internalID: 1864176191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackIndicatorKappa_34
+      rect:
+        serializedVersion: 2
+        x: 7344
+        y: 0
+        width: 216
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2682a51fd9bf84ba6f3a138b4d5cec
+      internalID: -402690527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackIndicatorKappa_35
+      rect:
+        serializedVersion: 2
+        x: 7560
+        y: 0
+        width: 216
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd50221e475c334c957d91085c7805b
+      internalID: 1050698746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackIndicatorKappa_36
+      rect:
+        serializedVersion: 2
+        x: 7776
+        y: 0
+        width: 216
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01dc8af4936d7a41af32070ccfa535a
+      internalID: 421090815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackIndicatorKappa_37
+      rect:
+        serializedVersion: 2
+        x: 7992
+        y: 0
+        width: 216
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836f61d058dc2f44e9ad9899b979f74c
+      internalID: 1764774496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackIndicatorKappa_38
+      rect:
+        serializedVersion: 2
+        x: 8208
+        y: 0
+        width: 216
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca50f88a9df75c9439309de90ef4540f
+      internalID: -1938293910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackIndicatorKappa_39
+      rect:
+        serializedVersion: 2
+        x: 8424
+        y: 0
+        width: 216
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057d354dc702c704391b2dcb8439ad09
+      internalID: 970447595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackIndicatorKappa_40
+      rect:
+        serializedVersion: 2
+        x: 8640
+        y: 0
+        width: 216
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be81b317d1656e479e48c3d48c343bd
+      internalID: -1403844514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackIndicatorKappa_41
+      rect:
+        serializedVersion: 2
+        x: 8856
+        y: 0
+        width: 216
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2b77bee8eb9bc488dc6e31601863b7
+      internalID: -897274173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackIndicatorKappa_42
+      rect:
+        serializedVersion: 2
+        x: 9072
+        y: 0
+        width: 216
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21532a916e1046f4690a59293c21060b
+      internalID: 1570094145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackIndicatorKappa_43
+      rect:
+        serializedVersion: 2
+        x: 9288
+        y: 0
+        width: 216
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c20faae36951e94b9e295fe016da867
+      internalID: 1495471031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackIndicatorKappa_44
+      rect:
+        serializedVersion: 2
+        x: 9504
+        y: 0
+        width: 216
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906d6247d0e90424c91cd44758c88ca7
+      internalID: -2036270415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackIndicatorKappa_45
+      rect:
+        serializedVersion: 2
+        x: 9720
+        y: 0
+        width: 216
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f5292ff4b5e0546aa62b18828991fb
+      internalID: -136962717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackIndicatorKappa_46
+      rect:
+        serializedVersion: 2
+        x: 9936
+        y: 0
+        width: 216
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38d03875bd75c54995eb95b8c0bf991
+      internalID: -99809961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackIndicatorKappa_47
+      rect:
+        serializedVersion: 2
+        x: 10152
+        y: 0
+        width: 216
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c31efc04bee394db28e1150eafb10c
+      internalID: 524565895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackIndicatorKappa_48
+      rect:
+        serializedVersion: 2
+        x: 10368
+        y: 0
+        width: 216
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92e75c13d5c6a746bb2bbabcf3aaa71
+      internalID: -1249416317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      AttackIndicatorKappa_12: -318189219
+      AttackIndicatorKappa_5: 654068979
+      AttackIndicatorKappa_45: -136962717
+      AttackIndicatorKappa_14: -1598849649
+      AttackIndicatorKappa_18: 1501171456
+      AttackIndicatorKappa_26: -1424742744
+      AttackIndicatorKappa_4: 1059351434
+      AttackIndicatorKappa_24: -2066390554
+      AttackIndicatorKappa_38: -1938293910
+      AttackIndicatorKappa_37: 1764774496
+      AttackIndicatorKappa_17: 83046683
+      AttackIndicatorKappa_8: 719001623
+      AttackIndicatorKappa_15: -1299761915
+      AttackIndicatorKappa_20: 817236446
+      AttackIndicatorKappa_32: 1764792459
+      AttackIndicatorKappa_33: 1864176191
+      AttackIndicatorKappa_43: 1495471031
+      AttackIndicatorKappa_30: -1173625079
+      AttackIndicatorKappa_11: 1801912834
+      AttackIndicatorKappa_46: -99809961
+      AttackIndicatorKappa_3: 1366292572
+      AttackIndicatorKappa_42: 1570094145
+      AttackIndicatorKappa_23: 761662245
+      AttackIndicatorKappa_19: 759928126
+      AttackIndicatorKappa_41: -897274173
+      AttackIndicatorKappa_10: -1692097850
+      AttackIndicatorKappa_39: 970447595
+      AttackIndicatorKappa_27: 1904491108
+      AttackIndicatorKappa_2: -637871498
+      AttackIndicatorKappa_6: -905988235
+      AttackIndicatorKappa_16: 1986025225
+      AttackIndicatorKappa_21: -1034630731
+      AttackIndicatorKappa_28: -941072232
+      AttackIndicatorKappa_31: 2021703675
+      AttackIndicatorKappa_48: -1249416317
+      AttackIndicatorKappa_47: 524565895
+      AttackIndicatorKappa_35: 1050698746
+      AttackIndicatorKappa_1: 27968093
+      AttackIndicatorKappa_7: -2111523321
+      AttackIndicatorKappa_22: -326937881
+      AttackIndicatorKappa_44: -2036270415
+      AttackIndicatorKappa_25: -1395531861
+      AttackIndicatorKappa_40: -1403844514
+      AttackIndicatorKappa_0: -682432878
+      AttackIndicatorKappa_9: 973689178
+      AttackIndicatorKappa_13: -138357640
+      AttackIndicatorKappa_29: 161835909
+      AttackIndicatorKappa_36: 421090815
+      AttackIndicatorKappa_34: -402690527
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

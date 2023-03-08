@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Environment
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: fc751a67ee98c4b429aceb950d6dfb4e, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: -3440020596369939217, guid: c0a18d7080b7a4e49a1f01c917f181dc, type: 3}
+  - {fileID: 517800680, guid: ee1383d1534bf4443855796302e15c15, type: 3}
+  - {fileID: 1828481278, guid: ee1383d1534bf4443855796302e15c15, type: 3}
+  - {fileID: -441941933, guid: ee1383d1534bf4443855796302e15c15, type: 3}
+  - {fileID: -208448664, guid: ee1383d1534bf4443855796302e15c15, type: 3}
+  - {fileID: 376842973, guid: ee1383d1534bf4443855796302e15c15, type: 3}
+  - {fileID: 2072207535, guid: ee1383d1534bf4443855796302e15c15, type: 3}
+  - {fileID: -1201488572, guid: ee1383d1534bf4443855796302e15c15, type: 3}
+  - {fileID: -593289913, guid: ee1383d1534bf4443855796302e15c15, type: 3}
+  - {fileID: -2006288298, guid: ee1383d1534bf4443855796302e15c15, type: 3}
+  - {fileID: 21300000, guid: 5267a7220406ff54ab980dd7bb5c19b5, type: 3}
+  - {fileID: 21300000, guid: a4133b23c14b04382a61591c13ad0cbe, type: 3}
+  - {fileID: -6007161880023004545, guid: d78575c3b4a41c748bae6568c63d94e7, type: 3}
+  - {fileID: 6547692722906539748, guid: 51c4b1959f668444cbc59329c645f1ea, type: 3}
+  - {fileID: 2613808196306660932, guid: c058d366a81cc79419702a7fa1ca8c03, type: 3}
+  - {fileID: 4536946351949713936, guid: de4e42a61627c4e62914f054ffdb6497, type: 3}
+  - {fileID: 21300000, guid: dee3fe07d2438734eafcd2b4542570a1, type: 3}
+  - {fileID: 4390830802848357922, guid: 5ec18e3703cc33d418eb83b0ebbcd969, type: 3}
+  - {fileID: 7537627949637695794, guid: 396c2d883cdf54cbd9534b4770b85b79, type: 3}
+  - {fileID: -6966417161284094177, guid: 7d4c6119546411d498fe697f97bb84bf, type: 3}
+  - {fileID: 631714415272812208, guid: 7d4c6119546411d498fe697f97bb84bf, type: 3}
+  - {fileID: -581618175600774121, guid: 7d4c6119546411d498fe697f97bb84bf, type: 3}
+  - {fileID: 1412710918218644586, guid: 659ec9ea252c2df4bbacaee718e45c8a, type: 3}
+  - {fileID: -6519492980047235975, guid: 59d06afaab5d2454e8d5e3cca0038a7c, type: 3}
+  - {fileID: -4053202876220669382, guid: 59d06afaab5d2454e8d5e3cca0038a7c, type: 3}
+  - {fileID: 6638594931802740290, guid: 59d06afaab5d2454e8d5e3cca0038a7c, type: 3}
+  - {fileID: 332629014740116509, guid: 4beaa91bb86073a4b8bcc2cb288adde6, type: 3}
+  - {fileID: 7043853007835649825, guid: 749b734c6d9384ddf944bc1372c05aea, type: 3}
+  - {fileID: -8631678134199147293, guid: 63be811d445546246ba12bd904669137, type: 3}
+  - {fileID: 21300000, guid: b33397de814e7cc48bd94bff36591c64, type: 3}
+  - {fileID: -8622112711991147908, guid: a78a15eefe376422bb08a14e90fbb045, type: 3}
+  - {fileID: 2803141801791963515, guid: ebdb799f0e526db4fabecc255727b6c2, type: 3}
+  - {fileID: -8563247348999810865, guid: 8fd873cfe1ca44c499a5c981180a3ed2, type: 3}
+  - {fileID: 1072760819160849787, guid: 8fd873cfe1ca44c499a5c981180a3ed2, type: 3}
+  - {fileID: 4790118649914745990, guid: 8fd873cfe1ca44c499a5c981180a3ed2, type: 3}
+  - {fileID: -887544954209838368, guid: 64475bcf281dbce47a13511f092c5390, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - thorn tendril
+  - dirt_tile_8
+  - dirt_tile_2
+  - dirt_tile_3
+  - dirt_tile_0
+  - dirt_tile_1
+  - dirt_tile_6
+  - dirt_tile_7
+  - dirt_tile_4
+  - dirt_tile_5
+  - lotus
+  - gray_background
+  - stone
+  - side door
+  - grass 1
+  - tutorial stone
+  - grass_big
+  - grass 2
+  - tutorial stone
+  - wall small
+  - ranken
+  - grass
+  - big door
+  - ranken
+  - grass
+  - tafel
+  - trunk complete
+  - Layer 1
+  - leafe_pile copy 13
+  - stepstone_big
+  - dummy default
+  - leafe_pile copy 13
+  - fire
+  - statue
+  - moss
+  - dirt smal
+  m_RenderDataMap: {}
+  m_Tag: Environment
+  m_IsVariant: 0

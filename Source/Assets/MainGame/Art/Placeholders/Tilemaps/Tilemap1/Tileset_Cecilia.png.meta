@@ -1,0 +1,2335 @@
+fileFormatVersion: 2
+guid: 8274d2a65fa7bda419e1eca7b16f489b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tileset_Cecilia_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 603
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa20622c09269bb45a3b9dd5f6721b0f
+      internalID: 253539237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 603
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7f36ba8cee314479778be695b8da4b
+      internalID: 1911846444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 603
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31bcd6a643c9d847b1b0271f3eb0a56
+      internalID: 495598926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 603
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d1540eafcdb7b49894a8a19d580722
+      internalID: 32971751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_4
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 603
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa474e71bbbb334b82b6adf89734ddc
+      internalID: -671850412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_5
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 603
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66fb0954376614940aebf8c3299b9787
+      internalID: -1469859881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_6
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 603
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65773aeffb7c0c5489c3e1349c45f4d5
+      internalID: -526737224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_7
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 603
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f15c0c825c7f0468f3b838231661e1
+      internalID: -1632536935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_8
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 603
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7596979c62818bb4c92234d97f4e595b
+      internalID: 613017478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_9
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 603
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3d79e38e87bd342bb39113fe75b007
+      internalID: -857492888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_10
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 539
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1c02734b44b4048a79792d10e82a28
+      internalID: 52020889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 539
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57446ad54004bf43a091affd52ab76d
+      internalID: 1136578720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_12
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 539
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2402cba97ad4df49b79be9894100ee7
+      internalID: -1653177125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 539
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8353323901b9cac4396a81922e6da683
+      internalID: 828539677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_14
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 539
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe82e2a0c0442a46a5443cf85dcf54c
+      internalID: 1763285168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_15
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 539
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ba20869713d5b44908ac89280dea02
+      internalID: 1731616552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_16
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 539
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b58a7b9afd42446b1292338bdc2f41
+      internalID: 1198702480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_17
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 539
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ebfe6f2af34a546a22940c44bd72e0
+      internalID: -1093415041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_18
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 539
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b1710702fb92c4e8526e31011fb827
+      internalID: 328199182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_19
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 539
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309c62f7ecc333840a76d7216f918d60
+      internalID: -495816569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_20
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 475
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047edb8564b42514dbdb24c717f34f7e
+      internalID: 1257278630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 475
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db604d12a5d73f4299b5751112cf69a
+      internalID: -1722589399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_22
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 475
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64cce7513bffab84cb00431ea7001bc1
+      internalID: -1906684389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_23
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 475
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642b22cbd69131a458a5ccb7a30dde31
+      internalID: -1843487072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_24
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 475
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33f76421bfa1c4429fc8e7d78c69ec4
+      internalID: -1585673482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_25
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 475
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6547dac1f26fb7744aea9f9a2d26715b
+      internalID: 896371607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_26
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 475
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb25894811129384a943d44903746f86
+      internalID: 480362157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_27
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 475
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c0d212990ca174f979fb144b4c30da
+      internalID: -1856234385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_28
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 475
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e640fa6a85c3c9408d62067b495d752
+      internalID: -1704789243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_29
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 475
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8c3e959b5b9754abb18d90d0b260ac
+      internalID: 980335785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_30
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 411
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564e8adbe13c37041829c45c3acc7eda
+      internalID: 420729257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 411
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3a851905777bf49a94b976b381a964
+      internalID: 929097574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_32
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 411
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6181322a084b864fbc694ef8247923e
+      internalID: 1307745439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_33
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 411
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354c7fd4217287a4bb429fe73cceda55
+      internalID: 722606417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_34
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 411
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a284b7d83218dc04fb85fbe69f56e5bb
+      internalID: -895758477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_35
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 411
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43bc6178223a2640861eac4ec6b1d0f
+      internalID: 1545021786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_36
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 411
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8227e1cf3bae246a4fbe470ab7b18f
+      internalID: 1089435879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_37
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 411
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa852f6cc831915438b4b2397f6f8c72
+      internalID: -50021289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_38
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 411
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1d53c64df952c468668fc83ee52732
+      internalID: 1008889108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_39
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 411
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6608526d652fa8548932a38d74793cf5
+      internalID: 865222855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_40
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 347
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c75dfbbc8a1d742b8cb44d540e2421
+      internalID: 304190294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 347
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fbe4d855f267b54db643bd4c41178d2
+      internalID: 2079656552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_42
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 347
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b48bb42fa3a4954faa9eabf9e702028
+      internalID: 948587813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_43
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 347
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7e53f9db059e547bef3c81db49218a
+      internalID: 1833175292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_44
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 347
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e140dfe19f46d60469ab3e83d1394e14
+      internalID: 963950524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_45
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 347
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6d160134598404481091578beabdcf
+      internalID: -1170691105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_46
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 347
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e80da7568607e34da4408f69eb44620
+      internalID: -718052919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_47
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 347
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f712c9f282ce72845b8f34b72ec041e6
+      internalID: -183735872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_48
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 347
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5237837b6c1f47e4a9066a36de02fbd7
+      internalID: -1995835008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_49
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 347
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6700acf1a24447f47b25e2b3eeb0a86e
+      internalID: 669546937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_50
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 283
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55b3f8deafd6f744a972db2b0980350
+      internalID: -968452210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_51
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 283
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268307b71dcd6f34aa21124d49b1ab61
+      internalID: -1532244651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_52
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 283
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865aa4f3fbb88904abfb7758c540f4f2
+      internalID: 1985406241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_53
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 283
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddab8877ef85f7c40860ea1cd2cf3591
+      internalID: 1327936626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_54
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 283
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819ddda3b50fc844b93c5fafe7036583
+      internalID: -2039889134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_55
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 283
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2897cd83c72540443af7f4d84ec87d50
+      internalID: -1820337203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_56
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 283
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3db070cca0b3be4cbdfb126fca027e9
+      internalID: 1037430592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_57
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 283
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747dc6cbfd7a4084a8cb90441614d1ac
+      internalID: -1098311417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_58
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 283
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613c7eaf69a57dc4ebfa13140e8b8d1f
+      internalID: -838054978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_59
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 283
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b103d7299b2744c849c02fd6e27c58
+      internalID: -1099253178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_60
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 219
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f10e8ee59e03447ae2a3a78c89eea7
+      internalID: 306689173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 219
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462140307c64f984fac916a280693804
+      internalID: -158932048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_62
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 219
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288181097022e0f448f6b304b10d3aff
+      internalID: -378369726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_63
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 219
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82e24f10fe88d94b9b19adfc71618aa
+      internalID: 2093889133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_64
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 219
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc33401abaa40845af97d93413a2693
+      internalID: -327929831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_65
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 219
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31584e159187d743a7eb4425a6537e2
+      internalID: -1170769304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_66
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 219
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14037c9fcf73e5a4f9c01170a4d6dc36
+      internalID: -1857736528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_67
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 219
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3815ec5739961254e9e322f094c2763e
+      internalID: -1219764677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_68
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 219
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92eddcd16a7628a4693a94a6c2b6a806
+      internalID: -1337245407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_69
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 219
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb99117c6e972e34587780852959880a
+      internalID: 2053819602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_70
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 155
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60fb4091efd78d4d8660da4b48e5b90
+      internalID: 1430846255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_71
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 155
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f956b793f50ae43a7c063816a2f8b2
+      internalID: -3326350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_72
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 155
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffbd8e226a0b70b4cbb1f2c438d792ec
+      internalID: -1942210806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_73
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 155
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd51d68cff1e7941881586096775f24
+      internalID: 1900692557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_74
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 155
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f8fec8a8396594ab340632dfab474b
+      internalID: 1986101003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_75
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 155
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f817d5ac4c384149963c1e7bec86156
+      internalID: -1766551753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_76
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 155
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92fac10ebad4c14438b176c54f354972
+      internalID: -1513135083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_77
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 155
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d8d62dd456cd54fbf66e1d962db4f1
+      internalID: 740996083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_78
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 155
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11230344ef1b644c90770c98e480f89
+      internalID: 788364227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_79
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 155
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deccecd1f9eae7b4dae828a4f8804416
+      internalID: 68646424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_80
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 91
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81663f474d243334582ed0df6ca70b26
+      internalID: 589478243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_81
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 91
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed7122110facf44dbfe3cb47689d8c0
+      internalID: 1626050114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_82
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 91
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab4bfc69b216b14eb120aad30239add
+      internalID: 1470559797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_83
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 91
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90e4c2e2e9588e49a7ee24442953a7e
+      internalID: 975890877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_84
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 91
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d984f7d41a2e9458e3363ff07b6e02
+      internalID: -741649770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_85
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 91
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2f1b5a1866e954e82279495be2ccf9
+      internalID: 71679300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_86
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 91
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67ed8de06cffa94ba91ff8182f79ead
+      internalID: -2025302706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_87
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 91
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b0a33c2b581104eb2d603497241944
+      internalID: 1082114094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_88
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 91
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635dd9428f5625d449fbfa4a8bff83be
+      internalID: -1254323734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_89
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 91
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302aa0ca95353454abfc5360203f6055
+      internalID: -810077010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_90
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 27
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9cced4d1189ef43a762a06d903377f
+      internalID: 279026267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_91
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 27
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc7dd2ca4e99eb41aa642924cdb90ba
+      internalID: -1038988963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_92
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 27
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da6d94049d74f84cb370665ca3cdf83
+      internalID: -363419324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_93
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 27
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ede52ca0ae1ab4cb47ef73bd2f36ff
+      internalID: 1426433149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_94
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 27
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611622b78c6f6614d9df1ea929758655
+      internalID: -702822539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_95
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 27
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5359d251ac92d824983f994066c190ec
+      internalID: 76882520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_96
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 27
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1a0d040f1d74b4f90b4a11ac3cb4bb
+      internalID: 1739231577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_97
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 27
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4bf0d23beae8a94ca2f51ad7c3abb9c
+      internalID: -1183342509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_98
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 27
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984dc050ce5f9ca4ea417a200bf108c0
+      internalID: 54131167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Cecilia_99
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 27
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd0cbf31243b59419f3e18f85e6ebe3
+      internalID: 1421909110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Tileset_Cecilia_87: 1082114094
+      Tileset_Cecilia_22: -1906684389
+      Tileset_Cecilia_4: -671850412
+      Tileset_Cecilia_84: -741649770
+      Tileset_Cecilia_53: 1327936626
+      Tileset_Cecilia_8: 613017478
+      Tileset_Cecilia_59: -1099253178
+      Tileset_Cecilia_64: -327929831
+      Tileset_Cecilia_32: 1307745439
+      Tileset_Cecilia_33: 722606417
+      Tileset_Cecilia_43: 1833175292
+      Tileset_Cecilia_3: 32971751
+      Tileset_Cecilia_76: -1513135083
+      Tileset_Cecilia_42: 948587813
+      Tileset_Cecilia_44: 963950524
+      Tileset_Cecilia_93: 1426433149
+      Tileset_Cecilia_17: -1093415041
+      Tileset_Cecilia_56: 1037430592
+      Tileset_Cecilia_72: -1942210806
+      Tileset_Cecilia_18: 328199182
+      Tileset_Cecilia_54: -2039889134
+      Tileset_Cecilia_46: -718052919
+      Tileset_Cecilia_25: 896371607
+      Tileset_Cecilia_91: -1038988963
+      Tileset_Cecilia_23: -1843487072
+      Tileset_Cecilia_24: -1585673482
+      Tileset_Cecilia_45: -1170691105
+      Tileset_Cecilia_92: -363419324
+      Tileset_Cecilia_62: -378369726
+      Tileset_Cecilia_97: -1183342509
+      Tileset_Cecilia_96: 1739231577
+      Tileset_Cecilia_89: -810077010
+      Tileset_Cecilia_35: 1545021786
+      Tileset_Cecilia_90: 279026267
+      Tileset_Cecilia_81: 1626050114
+      Tileset_Cecilia_50: -968452210
+      Tileset_Cecilia_38: 1008889108
+      Tileset_Cecilia_74: 1986101003
+      Tileset_Cecilia_40: 304190294
+      Tileset_Cecilia_66: -1857736528
+      Tileset_Cecilia_9: -857492888
+      Tileset_Cecilia_16: 1198702480
+      Tileset_Cecilia_26: 480362157
+      Tileset_Cecilia_51: -1532244651
+      Tileset_Cecilia_19: -495816569
+      Tileset_Cecilia_37: -50021289
+      Tileset_Cecilia_86: -2025302706
+      Tileset_Cecilia_58: -838054978
+      Tileset_Cecilia_20: 1257278630
+      Tileset_Cecilia_73: 1900692557
+      Tileset_Cecilia_15: 1731616552
+      Tileset_Cecilia_14: 1763285168
+      Tileset_Cecilia_99: 1421909110
+      Tileset_Cecilia_98: 54131167
+      Tileset_Cecilia_28: -1704789243
+      Tileset_Cecilia_47: -183735872
+      Tileset_Cecilia_60: 306689173
+      Tileset_Cecilia_83: 975890877
+      Tileset_Cecilia_12: -1653177125
+      Tileset_Cecilia_49: 669546937
+      Tileset_Cecilia_21: -1722589399
+      Tileset_Cecilia_36: 1089435879
+      Tileset_Cecilia_88: -1254323734
+      Tileset_Cecilia_11: 1136578720
+      Tileset_Cecilia_2: 495598926
+      Tileset_Cecilia_27: -1856234385
+      Tileset_Cecilia_80: 589478243
+      Tileset_Cecilia_68: -1337245407
+      Tileset_Cecilia_69: 2053819602
+      Tileset_Cecilia_10: 52020889
+      Tileset_Cecilia_85: 71679300
+      Tileset_Cecilia_39: 865222855
+      Tileset_Cecilia_52: 1985406241
+      Tileset_Cecilia_71: -3326350
+      Tileset_Cecilia_0: 253539237
+      Tileset_Cecilia_75: -1766551753
+      Tileset_Cecilia_7: -1632536935
+      Tileset_Cecilia_55: -1820337203
+      Tileset_Cecilia_13: 828539677
+      Tileset_Cecilia_31: 929097574
+      Tileset_Cecilia_34: -895758477
+      Tileset_Cecilia_94: -702822539
+      Tileset_Cecilia_6: -526737224
+      Tileset_Cecilia_67: -1219764677
+      Tileset_Cecilia_5: -1469859881
+      Tileset_Cecilia_77: 740996083
+      Tileset_Cecilia_1: 1911846444
+      Tileset_Cecilia_78: 788364227
+      Tileset_Cecilia_70: 1430846255
+      Tileset_Cecilia_61: -158932048
+      Tileset_Cecilia_63: 2093889133
+      Tileset_Cecilia_65: -1170769304
+      Tileset_Cecilia_41: 2079656552
+      Tileset_Cecilia_79: 68646424
+      Tileset_Cecilia_48: -1995835008
+      Tileset_Cecilia_95: 76882520
+      Tileset_Cecilia_82: 1470559797
+      Tileset_Cecilia_30: 420729257
+      Tileset_Cecilia_29: 980335785
+      Tileset_Cecilia_57: -1098311417
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

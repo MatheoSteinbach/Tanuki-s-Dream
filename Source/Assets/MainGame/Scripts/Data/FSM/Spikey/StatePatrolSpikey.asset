@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a88eb5a8d2a9afc40a4e401cd0d44f7a, type: 3}
+  m_Name: StatePatrolSpikey
+  m_EditorClassIdentifier: 
+  Actions:
+  - {fileID: 11400000, guid: c85f03e4bc1cd0d479e676c3f000ae4e, type: 2}
+  Transitions:
+  - Decision: {fileID: 11400000, guid: 95c2bbcc4ce6fdf47b4bdc5bc1611a20, type: 2}
+    TrueState: {fileID: 11400000, guid: efe0a1f53efacde4c8dc008e9b011396, type: 2}
+    FalseState: {fileID: 11400000, guid: 400e86b70b9a3d24c938a44267c91874, type: 2}
+  - Decision: {fileID: 11400000, guid: 1f30403d2ab9c0442bb3ffc2c366339d, type: 2}
+    TrueState: {fileID: 11400000, guid: 3aa5ccf37cd20b442971e6c6741ce7ac, type: 2}
+    FalseState: {fileID: 11400000, guid: 400e86b70b9a3d24c938a44267c91874, type: 2}

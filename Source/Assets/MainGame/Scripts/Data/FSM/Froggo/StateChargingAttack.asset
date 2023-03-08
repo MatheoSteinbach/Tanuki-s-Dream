@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a88eb5a8d2a9afc40a4e401cd0d44f7a, type: 3}
+  m_Name: StateChargingAttack
+  m_EditorClassIdentifier: 
+  Actions:
+  - {fileID: 11400000, guid: b13cf3fca507c9149872a052ce86879c, type: 2}
+  Transitions:
+  - Decision: {fileID: 11400000, guid: c165b100652da5d439d46285608e644c, type: 2}
+    TrueState: {fileID: 11400000, guid: 7f7cf3ce36541cc4a94635759c15cb5b, type: 2}
+    FalseState: {fileID: 11400000, guid: c953698ce79750d45a547bb3be1e639f, type: 2}
+  - Decision: {fileID: 11400000, guid: bb143416a17c39d478fb495bc0224f04, type: 2}
+    TrueState: {fileID: 11400000, guid: 4e942849e65ee664fa78f5b23a8b36b9, type: 2}
+    FalseState: {fileID: 11400000, guid: c953698ce79750d45a547bb3be1e639f, type: 2}

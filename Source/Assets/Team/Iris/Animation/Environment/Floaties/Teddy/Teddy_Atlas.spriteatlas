@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Teddy_Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: c5739cefc29f20844836c04abd583de6, type: 3}
+    - {fileID: 2800000, guid: a3a69511861bcc244ba55bfb7f7e169d, type: 3}
+    - {fileID: 2800000, guid: 194a08bbef3a93649b402c23399c0191, type: 3}
+    - {fileID: 2800000, guid: 06cbe064f08d44140bb95b5bc19d9ff5, type: 3}
+    - {fileID: 2800000, guid: d8e10e0a166b6d44689c329b2a3198f7, type: 3}
+    - {fileID: 2800000, guid: 07f0375e770ab2c4a80de3d5c25e4896, type: 3}
+    - {fileID: 2800000, guid: a3dba5d12854db24dafcbd314669f356, type: 3}
+    - {fileID: 2800000, guid: e547e26fac5e23f4a9ec857e5ccafc37, type: 3}
+    - {fileID: 2800000, guid: 1438f662fd622a04f8fdf110ebfb4596, type: 3}
+    - {fileID: 2800000, guid: 4123b2b953b31094885cad827411b6d5, type: 3}
+    - {fileID: 2800000, guid: ab2c43be59140c24db5583d150834229, type: 3}
+    - {fileID: 2800000, guid: 344571e8fd11c3a4e88d495583a3d6a5, type: 3}
+    - {fileID: 2800000, guid: 35ded384b4b339e43b8cdcfd5fa724a8, type: 3}
+    - {fileID: 2800000, guid: 3a6ca81aaae840c45bf2c86ffffc5d7b, type: 3}
+    - {fileID: 2800000, guid: a05b3f1ace78aad4d9d325536c6085a8, type: 3}
+    - {fileID: 2800000, guid: fd9da9d20391f6f4fbf1325a7bc0f0b0, type: 3}
+    - {fileID: 2800000, guid: 5a1af4b117594984fab688b7e55da558, type: 3}
+    - {fileID: 2800000, guid: 1bc9463b81c487144a2d1b020cb1c54d, type: 3}
+    - {fileID: 2800000, guid: f0c221a9a2dd75642bcbc951e34ce752, type: 3}
+    - {fileID: 2800000, guid: 54174c82e56b1014eb24cd1cd725d6bd, type: 3}
+    - {fileID: 2800000, guid: 8a44bef06ad608e45a9bc926e3e2b154, type: 3}
+    - {fileID: 2800000, guid: 35e35b897050a044fa330d689e05a47b, type: 3}
+    - {fileID: 2800000, guid: 6f8b2fb5a52ed6040a4fbad9fa3f92b2, type: 3}
+    - {fileID: 2800000, guid: 5d86c3fd3f108364d873e7239246960b, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 8a44bef06ad608e45a9bc926e3e2b154, type: 3}
+  - {fileID: 21300000, guid: a3a69511861bcc244ba55bfb7f7e169d, type: 3}
+  - {fileID: 21300000, guid: 5a1af4b117594984fab688b7e55da558, type: 3}
+  - {fileID: 21300000, guid: a3dba5d12854db24dafcbd314669f356, type: 3}
+  - {fileID: 21300000, guid: 1438f662fd622a04f8fdf110ebfb4596, type: 3}
+  - {fileID: 21300000, guid: 54174c82e56b1014eb24cd1cd725d6bd, type: 3}
+  - {fileID: 21300000, guid: fd9da9d20391f6f4fbf1325a7bc0f0b0, type: 3}
+  - {fileID: 21300000, guid: 06cbe064f08d44140bb95b5bc19d9ff5, type: 3}
+  - {fileID: 21300000, guid: 35ded384b4b339e43b8cdcfd5fa724a8, type: 3}
+  - {fileID: 21300000, guid: 6f8b2fb5a52ed6040a4fbad9fa3f92b2, type: 3}
+  - {fileID: 21300000, guid: 344571e8fd11c3a4e88d495583a3d6a5, type: 3}
+  - {fileID: 21300000, guid: 35e35b897050a044fa330d689e05a47b, type: 3}
+  - {fileID: 21300000, guid: f0c221a9a2dd75642bcbc951e34ce752, type: 3}
+  - {fileID: 21300000, guid: 4123b2b953b31094885cad827411b6d5, type: 3}
+  - {fileID: 21300000, guid: d8e10e0a166b6d44689c329b2a3198f7, type: 3}
+  - {fileID: 21300000, guid: 3a6ca81aaae840c45bf2c86ffffc5d7b, type: 3}
+  - {fileID: 21300000, guid: a05b3f1ace78aad4d9d325536c6085a8, type: 3}
+  - {fileID: 21300000, guid: 1bc9463b81c487144a2d1b020cb1c54d, type: 3}
+  - {fileID: 21300000, guid: 194a08bbef3a93649b402c23399c0191, type: 3}
+  - {fileID: 21300000, guid: 5d86c3fd3f108364d873e7239246960b, type: 3}
+  - {fileID: 21300000, guid: 07f0375e770ab2c4a80de3d5c25e4896, type: 3}
+  - {fileID: 21300000, guid: ab2c43be59140c24db5583d150834229, type: 3}
+  - {fileID: 21300000, guid: e547e26fac5e23f4a9ec857e5ccafc37, type: 3}
+  - {fileID: 21300000, guid: c5739cefc29f20844836c04abd583de6, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 21
+  - 2
+  - 17
+  - 7
+  - 9
+  - 20
+  - 16
+  - 4
+  - 13
+  - 23
+  - 12
+  - 22
+  - 19
+  - 10
+  - 5
+  - 14
+  - 15
+  - 18
+  - 3
+  - 24
+  - 6
+  - 11
+  - 8
+  - 1
+  m_RenderDataMap: {}
+  m_Tag: Teddy_Atlas
+  m_IsVariant: 0

@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5e6fedc2472449cead18ef23b5cb30d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Library:
+  - m_Name: Leaf
+    m_Hash: 1722658777
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Normal
+      m_Hash: 640249298
+      m_Sprite: {fileID: 8196437739453670128, guid: 3a5942253a1539f438359043e603ef48, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 8196437739453670128, guid: 3a5942253a1539f438359043e603ef48, type: 3}
+    - m_Name: Froggo
+      m_Hash: 851263524
+      m_Sprite: {fileID: -4495539632767025800, guid: 6ac09d17372a84b4381e405d5de09f0a, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -4495539632767025800, guid: 6ac09d17372a84b4381e405d5de09f0a, type: 3}
+    - m_Name: Kappa
+      m_Hash: 736120395
+      m_Sprite: {fileID: -5670764697509379500, guid: f893793a7b10d4742903ded73bcafb5b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -5670764697509379500, guid: f893793a7b10d4742903ded73bcafb5b, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 3
+  m_PrimaryLibraryGUID: 

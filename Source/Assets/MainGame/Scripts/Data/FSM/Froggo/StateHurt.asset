@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a88eb5a8d2a9afc40a4e401cd0d44f7a, type: 3}
+  m_Name: StateHurt
+  m_EditorClassIdentifier: 
+  Actions:
+  - {fileID: 11400000, guid: d08cbe2e3321cb749b9f1aa2526161d8, type: 2}
+  Transitions:
+  - Decision: {fileID: 11400000, guid: bb143416a17c39d478fb495bc0224f04, type: 2}
+    TrueState: {fileID: 11400000}
+    FalseState: {fileID: 11400000, guid: 2d0266ccd66d5034a9ca4613e885e1e3, type: 2}
+  - Decision: {fileID: 11400000, guid: 9e565fb2cd364c74db8b9340d8af87b0, type: 2}
+    TrueState: {fileID: 11400000, guid: 350cbf0a4982d4d4aaf24cd63755685a, type: 2}
+    FalseState: {fileID: 11400000, guid: c953698ce79750d45a547bb3be1e639f, type: 2}
